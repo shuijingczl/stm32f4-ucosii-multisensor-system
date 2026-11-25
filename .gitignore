@@ -1,0 +1,22 @@
+# Keil MDK-ARM build outputs
+MDK-ARM/*/
+!MDK-ARM/*.uvprojx
+!MDK-ARM/*.uvoptx
+*.o
+*.d
+*.axf
+*.crf
+*.dep
+*.lnp
+*.map
+*.sct
+*.htm
+*.iex
+*.lst
+*.hex
+*.bin
+*.build_log.htm
+*.uvguix.*
+DebugConfig/
+RTE/
+.mxproject
